@@ -1,5 +1,9 @@
 # 🧬 ProteinClaw
 
+<p align="center">
+  <img src="proteinclaw_logo.jpg" alt="ProteinClaw Logo" width="400"/>
+</p>
+
 **Conversational protein design — from target to validated binder candidates, all through natural language.**
 
 ProteinClaw integrates a full computational protein design pipeline into the [OpenClaw](https://github.com/openclaw/openclaw) agent framework. Researchers can design protein binders, run structure predictions, score candidates, and assess stability — all by chatting with an AI assistant.
