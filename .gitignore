@@ -1,0 +1,46 @@
+# Secrets & credentials
+.env
+*.env
+secrets.yaml
+config_private.yaml
+
+# API tokens / passwords (never commit these)
+*token*
+*password*
+*api_key*
+
+# Output data (large files)
+out/
+*.cif
+*.pdb
+*.fasta
+*.csv
+*.pkl
+*.pt
+*.h5
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+nohup.out
+
+# Modal artifacts
+.modal/
