@@ -172,6 +172,5 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 - [BoltzGen](https://github.com/jwohlwend/boltz) — all-atom protein design
 - [Chai-1](https://github.com/chaidiscovery/chai-lab) — molecular structure prediction
-- [BindCraft](https://github.com/martinpacesa/BindCraft) — binder optimization
 - [BioClaw](https://github.com/Runchuan-BU/BioClaw) — inspiration for the conversational biology agent pattern
 - [OpenClaw](https://openclaw.ai) — agent framework
