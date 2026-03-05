@@ -135,15 +135,7 @@ modal setup
 # Deploy endpoints (see skills/setup/SKILL.md for details)
 ```
 
-### BindCraft (Local GPU)
 
-```bash
-# Requires NVIDIA GPU with CUDA 12+
-# See skills/bindcraft/SKILL.md for installation guide
-conda create -n BindCraft python=3.10
-conda activate BindCraft
-# Follow skills/bindcraft/SKILL.md for full setup
-```
 
 ---
 
