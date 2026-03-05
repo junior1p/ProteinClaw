@@ -1,7 +1,7 @@
 # 🧬 ProteinClaw
 
 <p align="center">
-  <img src="proteinclaw_logo.jpg" alt="ProteinClaw Logo" width="400"/>
+  <img src="avatar.jpg" alt="ProteinClaw Logo" width="400"/>
 </p>
 
 **Conversational protein design — from target to validated binder candidates, all through natural language.**
